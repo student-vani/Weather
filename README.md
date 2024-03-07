@@ -3,7 +3,7 @@
 
   Wheather forecast- website is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=" add link "><strong>➥ Live Demo</strong></a>
+  <a href="  https://student-vani.github.io/Weather/ "><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -11,4 +11,4 @@
 
 ### Demo Screeshots
 
-![Foodie Desktop Demo]("screenshot link")
+
